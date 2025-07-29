@@ -268,6 +268,8 @@ public final class MediaStore {
     /** {@hide} */
     public static final String QUERY_ARG_LIMIT = ContentResolver.QUERY_ARG_LIMIT;
     /** {@hide} */
+    public static final String EXTRA_CALLING_PACKAGE_UID = "calling_package_uid";
+    /** {@hide} */
     public static final String QUERY_ARG_MIME_TYPE = "android:query-arg-mime_type";
     /** {@hide} */
     public static final String QUERY_ARG_SIZE_BYTES = "android:query-arg-size_bytes";
